@@ -1,35 +1,33 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hernd\\CIDM4390\\DeliveryCartFull\\DeliveryCart.Solution\\DeliveryCart.Tests\\DeliveryCart.Tests.csproj": {}
+    "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart.Tests\\DeliveryCart.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hernd\\CIDM4390\\DeliveryCartFull\\DeliveryCart.Solution\\DeliveryCart.Tests\\DeliveryCart.Tests.csproj": {
+    "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart.Tests\\DeliveryCart.Tests.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hernd\\CIDM4390\\DeliveryCartFull\\DeliveryCart.Solution\\DeliveryCart.Tests\\DeliveryCart.Tests.csproj",
+        "projectUniqueName": "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart.Tests\\DeliveryCart.Tests.csproj",
         "projectName": "DeliveryCart.Tests",
-        "projectPath": "C:\\Users\\hernd\\CIDM4390\\DeliveryCartFull\\DeliveryCart.Solution\\DeliveryCart.Tests\\DeliveryCart.Tests.csproj",
-        "packagesPath": "C:\\Users\\hernd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hernd\\CIDM4390\\DeliveryCartFull\\DeliveryCart.Solution\\DeliveryCart.Tests\\obj\\",
+        "projectPath": "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart.Tests\\DeliveryCart.Tests.csproj",
+        "packagesPath": "C:\\Users\\avjag\\.nuget\\packages\\",
+        "outputPath": "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hernd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\avjag\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\hernd\\CIDM4390\\DeliveryCartFull\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj": {
-                "projectPath": "C:\\Users\\hernd\\CIDM4390\\DeliveryCartFull\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj"
+              "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj": {
+                "projectPath": "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj"
               }
             }
           }
@@ -84,24 +82,22 @@
         }
       }
     },
-    "C:\\Users\\hernd\\CIDM4390\\DeliveryCartFull\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj": {
+    "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hernd\\CIDM4390\\DeliveryCartFull\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj",
+        "projectUniqueName": "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj",
         "projectName": "DeliveryCart",
-        "projectPath": "C:\\Users\\hernd\\CIDM4390\\DeliveryCartFull\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj",
-        "packagesPath": "C:\\Users\\hernd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hernd\\CIDM4390\\DeliveryCartFull\\DeliveryCart.Solution\\DeliveryCart\\obj\\",
+        "projectPath": "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj",
+        "packagesPath": "C:\\Users\\avjag\\.nuget\\packages\\",
+        "outputPath": "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hernd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\avjag\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
