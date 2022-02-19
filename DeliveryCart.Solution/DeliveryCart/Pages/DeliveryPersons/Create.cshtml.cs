@@ -5,6 +5,7 @@ using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.Mvc.RazorPages;
 using Microsoft.AspNetCore.Mvc.Rendering;
+using DeliveryCart.Data;
 using DeliveryCart.Models;
 
 namespace DeliveryCart.Pages.DeliveryPersons
@@ -34,8 +35,8 @@ namespace DeliveryCart.Pages.DeliveryPersons
                 return Page();
             }
 
-            _context.DeliveryPersons.Add(DeliveryPerson);
-            await _context.SaveChangesAsync();
+            // _context.DeliveryPersons.Add(DeliveryPerson);
+            await _context.AddDeliveryPersonAsync(DeliveryPerson);
 
             return RedirectToPage("./Index");
         }

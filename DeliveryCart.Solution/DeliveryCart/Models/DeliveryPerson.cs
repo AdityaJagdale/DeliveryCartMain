@@ -19,7 +19,7 @@ namespace DeliveryCart.Models
         public string DeliveryPersonPassword {get; set;}
 
         // Navigation Property for the Order_DeliveryPerson associative table.
-        public ICollection<OrderDeliveryPerson> OrderDeliveryPersons {get; set;}
+        // public ICollection<OrderDeliveryPerson> OrderDeliveryPersons {get; set;}
 
         // Backlogged for now.
         // public int DeliveryPersonRating {get; set;}
@@ -27,12 +27,12 @@ namespace DeliveryCart.Models
 
     }
 
-    public class OrderDeliveryPerson
-        {
-            public int ID {get; set;}
-            public int OrderID {get; set;} // Composite PK, FK1
-            public int DeliveryPersonID {get; set;} // Composite PK, FK2
-            public Order Order {get; set;} // Navigation Property. 1 order to 1 ODP
-            public DeliveryPerson DeliveryPerson {get; set;} // Navigation Property. 1 Delivery person to 1 ODP
-        }
+    // public class OrderDeliveryPerson
+    //     {
+    //         public int ID {get; set;}
+    //         public int OrderID {get; set;} // Composite PK, FK1
+    //         public int DeliveryPersonID {get; set;} // Composite PK, FK2
+    //         public Order Order {get; set;} // Navigation Property. 1 order to 1 ODP
+    //         public DeliveryPerson DeliveryPerson {get; set;} // Navigation Property. 1 Delivery person to 1 ODP
+    //     }
     }

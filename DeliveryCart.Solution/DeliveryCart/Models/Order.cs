@@ -18,7 +18,7 @@ namespace DeliveryCart.Models
         public Shopper Shopper {get; set;}
 
         // Navigation Property for the Order_DeliveryPerson associative table.
-        public ICollection<OrderDeliveryPerson> OrderDeliveryPersons {get; set;}
+        // public ICollection<OrderDeliveryPerson> OrderDeliveryPersons {get; set;}
 
     }
 }

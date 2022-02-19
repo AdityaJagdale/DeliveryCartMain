@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hernd\\CIDM4390\\DeliveryCartFull\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj": {}
+    "C:\\Users\\hernd\\CIDM4390\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hernd\\CIDM4390\\DeliveryCartFull\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj": {
+    "C:\\Users\\hernd\\CIDM4390\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hernd\\CIDM4390\\DeliveryCartFull\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj",
+        "projectUniqueName": "C:\\Users\\hernd\\CIDM4390\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj",
         "projectName": "DeliveryCart",
-        "projectPath": "C:\\Users\\hernd\\CIDM4390\\DeliveryCartFull\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj",
+        "projectPath": "C:\\Users\\hernd\\CIDM4390\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj",
         "packagesPath": "C:\\Users\\hernd\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hernd\\CIDM4390\\DeliveryCartFull\\DeliveryCart.Solution\\DeliveryCart\\obj\\",
+        "outputPath": "C:\\Users\\hernd\\CIDM4390\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\hernd\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -49,6 +49,10 @@
               "suppressParent": "All",
               "target": "Package",
               "version": "[6.0.1, )"
+            },
+            "Microsoft.EntityFrameworkCore.InMemory": {
+              "target": "Package",
+              "version": "[6.0.2, )"
             },
             "Microsoft.EntityFrameworkCore.SQLite": {
               "target": "Package",
