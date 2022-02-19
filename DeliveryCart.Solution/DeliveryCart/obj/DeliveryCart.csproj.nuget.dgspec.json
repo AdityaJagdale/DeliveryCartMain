@@ -1,6 +1,7 @@
 {
   "format": 1,
   "restore": {
+<<<<<<< HEAD
     "C:\\Users\\hernd\\CIDM4390\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj": {}
   },
   "projects": {
@@ -12,16 +13,27 @@
         "projectPath": "C:\\Users\\hernd\\CIDM4390\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj",
         "packagesPath": "C:\\Users\\hernd\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\hernd\\CIDM4390\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart\\obj\\",
+=======
+    "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj": {}
+  },
+  "projects": {
+    "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj",
+        "projectName": "DeliveryCart",
+        "projectPath": "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart\\DeliveryCart.csproj",
+        "packagesPath": "C:\\Users\\avjag\\.nuget\\packages\\",
+        "outputPath": "D:\\Classes\\SoftDev Capstone\\VS Code Projects\\DeliveryCartMain\\DeliveryCart.Solution\\DeliveryCart\\obj\\",
+>>>>>>> 3c5c091a5ee1cfbf1bcbf29dfb53d39950a30a70
         "projectStyle": "PackageReference",
         "configFilePaths": [
-          "C:\\Users\\hernd\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+          "C:\\Users\\avjag\\AppData\\Roaming\\NuGet\\NuGet.Config"
         ],
         "originalTargetFrameworks": [
           "net6.0"
         ],
         "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
           "https://api.nuget.org/v3/index.json": {}
         },
         "frameworks": {
