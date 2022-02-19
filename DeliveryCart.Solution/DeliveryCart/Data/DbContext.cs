@@ -6,6 +6,7 @@ using Microsoft.EntityFrameworkCore;
 using DeliveryCart.Models;
 using System.Configuration;
 
+
 public class DbContext : Microsoft.EntityFrameworkCore.DbContext
     {
         public DbContext (DbContextOptions<DbContext> options)
@@ -62,9 +63,9 @@ public class DbContext : Microsoft.EntityFrameworkCore.DbContext
         {
             return new List<DeliveryPerson>()
             {
-                new DeliveryPerson(){DeliveryPersonFirstName = "Rex", DeliveryPersonLastName = "Herndon", DeliveryPersonUsername = "rherndon", DeliveryPersonPassword = "password1" },
-                new DeliveryPerson(){DeliveryPersonFirstName = "Aditya", DeliveryPersonLastName = "Jagdale", DeliveryPersonUsername = "ajagdale", DeliveryPersonPassword = "password2" },
-                new DeliveryPerson(){DeliveryPersonFirstName = "Chris", DeliveryPersonLastName = "Bland", DeliveryPersonUsername = "cbald", DeliveryPersonPassword = "password3" }
+                new DeliveryPerson(){ID = 12, DeliveryPersonFirstName = "Rex", DeliveryPersonLastName = "Herndon", DeliveryPersonUsername = "rherndon", DeliveryPersonPassword = "password1" },
+                new DeliveryPerson(){ID = 13, DeliveryPersonFirstName = "Aditya", DeliveryPersonLastName = "Jagdale", DeliveryPersonUsername = "ajagdale", DeliveryPersonPassword = "password2" },
+                new DeliveryPerson(){ID = 14, DeliveryPersonFirstName = "Chris", DeliveryPersonLastName = "Bland", DeliveryPersonUsername = "cbald", DeliveryPersonPassword = "password3" }
             };
         }
 

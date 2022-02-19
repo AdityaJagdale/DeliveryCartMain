@@ -1,5 +1,10 @@
 # DeliveryCartMain
 
+<<<<<<< HEAD
+=======
+DeliveryCart
+
+>>>>>>> f75848cefe35794476b9a7b89160ae3f35b51ee8
 This prototype of DeliveryCart was made for CIDM-4390 (Software Systems Development) and was 
 created by Rex Herndon (rexherndon), Aditya Jagdale (adityajagdale), and Christopher Bland (chris0629).
 
